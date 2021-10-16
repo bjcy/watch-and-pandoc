@@ -4,12 +4,14 @@ GEM
     filewatcher (1.1.1)
       optimist (~> 3.0)
     optimist (3.0.1)
+    slop (4.9.1)
 
 PLATFORMS
   x86_64-darwin-19
 
 DEPENDENCIES
   filewatcher
+  slop
 
 BUNDLED WITH
    2.2.22
